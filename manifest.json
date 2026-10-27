@@ -1,0 +1,17 @@
+{
+  "id": "mi-inventario",
+  "name": "Mi Inventario",
+  "short_name": "Inventario",
+  "description": "Inventario, ventas, fiado y precios en dólares y bolívares.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
